@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 edit from javeria
+=======
+Edit
+from
+partner
+>>>>>>> 85786a5ee2e4773f131f578565a19695baa5bb7a
